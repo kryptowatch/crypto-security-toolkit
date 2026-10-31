@@ -45,7 +45,7 @@ Suggest practical improvements with links to primary documentation and a date ch
 - [KryptoWatch profile](https://github.com/KryptoWatch)
 - [Exchange directory](https://github.com/KryptoWatch/awesome-crypto-exchanges)
 - [Swap directory](https://github.com/KryptoWatch/awesome-crypto-swaps)
-- [API directory](https://github.com/KryptoWatch/crypto-api-directory) *(planned)*
+- [API directory](https://github.com/KryptoWatch/crypto-api-directory)
 
 ---
 
