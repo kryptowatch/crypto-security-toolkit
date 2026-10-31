@@ -1,10 +1,22 @@
+<p align="center"><a href="https://krypto.watch"><img src="https://raw.githubusercontent.com/KryptoWatch/awesome-crypto-swaps/main/assets/krypto-watch-logo.svg" width="420" alt="Krypto.Watch — Discover · Compare · Trade"></a></p>
+
+<p align="center"><strong>◉ DISCOVER · COMPARE · TRADE</strong><br>OPEN CRYPTO RESEARCH · BUILT IN THE OPEN</p>
+
+<p align="center"><a href="https://github.com/KryptoWatch/awesome-crypto-exchanges">EXCHANGES</a> · <a href="https://github.com/KryptoWatch/awesome-crypto-swaps">SWAPS</a> · <a href="https://github.com/KryptoWatch/crypto-security-toolkit">SECURITY</a> · <a href="https://github.com/KryptoWatch/crypto-api-directory">DEVELOPER APIs</a> · <a href="https://x.com/KryptodotWatch">𝕏</a></p>
+
+---
+
 # Crypto Security Toolkit
+
 
 Practical, source-linked security guidance for people using crypto wallets and services. This toolkit focuses on safer habits and incident preparation; it does not audit wallets, verify addresses, or guarantee that an asset or service is safe.
 
+
 > Never share a seed phrase, Secret Recovery Phrase, private key, password, or one-time code. Do not paste secrets into websites, chat, issue trackers, or support forms.
 
+
 ## Start here: wallet safety checklist
+
 
 - Install wallet software only from the wallet maker's official site or a verified app store listing linked from that site. Check the publisher and URL.
 - Keep your operating system, browser, wallet, and hardware-wallet firmware updated using official update paths.
@@ -16,7 +28,9 @@ Practical, source-linked security guidance for people using crypto wallets and s
 - Review wallet permissions and token approvals using the wallet's official tools or the relevant chain's explorer; understand what a revocation transaction does before signing it.
 - For meaningful amounts, consider separating everyday spending from long-term storage and using a hardware wallet after learning its backup and recovery process.
 
+
 ## If you may have been scammed or compromised
+
 
 1. Stop interacting with the message, site, app, or person. Do not send more funds to “unlock,” “recover,” or “verify” anything.
 2. From a device you believe is clean, secure the associated email and exchange accounts through official websites. Change reused passwords and enable strong MFA.
@@ -24,34 +38,12 @@ Practical, source-linked security guidance for people using crypto wallets and s
 4. Save transaction IDs, timestamps, addresses, URLs, and messages as evidence. Do not publish personal information or private keys.
 5. Contact the exchange, wallet provider, bank, or law-enforcement reporting channel using contact details from their official website. Be wary of unsolicited recovery agents.
 
+
 Blockchain transfers are often difficult or impossible to reverse. This checklist cannot guarantee recovery or determine whether a device is clean. For significant losses or active compromise, use official provider support and appropriate local authorities.
+
 
 ## Trusted starting points
 
+
 - [Bitcoin.org: Securing your wallet](https://bitcoin.org/en/secure-your-wallet) — wallet backup and encryption basics.
 - [MetaMask: Basic security tips](https://support.metamask.io/stay-safe/safety-in-web3/basic-safety-and-security-tips-for-metamask) — Secret Recovery Phrase and scam guidance for MetaMask users.
-- [MetaMask: Secure your Secret Recovery Phrase](https://support.metamask.io/start/what-is-a-secret-recovery-phrase-and-how-to-keep-your-crypto-wallet-secure) — backup and wallet-specific guidance.
-- [MetaMask: Token safety practices](https://support.metamask.io/stay-safe/safety-in-web3/token-safety-practices) — unsolicited tokens and safety practices.
-- [CISA: Phishing guidance](https://www.cisa.gov/sites/default/files/2025-03/Phishing%20Guidance%20-%20Stopping%20the%20Attack%20Cycle%20at%20Phase%20One%20508.pdf) — phishing prevention guidance.
-
-These sources are product-specific or general guidance, not independent endorsements. Read the current documentation for the wallet, chain, and jurisdiction you use.
-
-## Contribute
-
-Suggest practical improvements with links to primary documentation and a date checked. Keep guidance non-custodial and vendor-neutral where possible. Disclose affiliations. Do not post live exploits, personal incident details, seed phrases, private keys, or unredacted screenshots.
-
-## Related projects
-
-- [KryptoWatch profile](https://github.com/KryptoWatch)
-- [Exchange directory](https://github.com/KryptoWatch/awesome-crypto-exchanges)
-- [Swap directory](https://github.com/KryptoWatch/awesome-crypto-swaps)
-- [API directory](https://github.com/KryptoWatch/crypto-api-directory)
-
----
-
-For education only; not financial, legal, or professional cybersecurity advice.
-
-
-## Explore on Krypto.Watch
-
-Visit the live [security and crypto services directory](https://krypto.watch/services) on [Krypto.Watch](https://krypto.watch/).
