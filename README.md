@@ -50,3 +50,8 @@ Suggest practical improvements with links to primary documentation and a date ch
 ---
 
 For education only; not financial, legal, or professional cybersecurity advice.
+
+
+## Explore on Krypto.Watch
+
+Visit the live [security and crypto services directory](https://krypto.watch/services) on [Krypto.Watch](https://krypto.watch/).
